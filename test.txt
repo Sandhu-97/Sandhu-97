@@ -1,3 +1,5 @@
 hello world, this a text file to practice git
-
+2nd line
 hey this 3rd line
+I have done changes in this file. 
+These are new changes
